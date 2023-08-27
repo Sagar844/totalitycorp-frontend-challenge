@@ -1,20 +1,6 @@
-## Table Of Contents
-
-- [About the Project](#about-the-project)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
-
 ## About The Project
 
-  <img src="src/assets/Capture.PNG" alt="Logo" width="80" height="80">
+  <img src="./src/assets/Capture.PNG" alt="Logo" width="80" height="80">
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
